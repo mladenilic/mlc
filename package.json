@@ -1,0 +1,24 @@
+{
+  "name": "mlc",
+  "version": "1.0.3",
+  "description": "Magento local.xml generator script",
+  "bin": {
+    "mlc": "mlc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Magento",
+    "local.xml"
+  ],
+  "author": "Mladen Ilic",
+  "license": "MIT",
+  "devDependencies": {
+    "minimist": "^1.2.0"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}

@@ -1,13 +1,13 @@
 {
   "name": "mlc",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Magento local.xml generator script",
   "bin": {
     "mlc": "mlc.js"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/mladenilic/mlc"
   },
   "keywords": [
     "Magento",
